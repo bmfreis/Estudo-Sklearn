@@ -1,7 +1,7 @@
 # Estudo-Sklearn
 
 sklearn-datasets.ipynb
-- Toy dataset¶
+- Toy dataset
     - Boston house prices (regression)
     - Diabetes (regression)
     - Physical excercise linnerud (regression)
